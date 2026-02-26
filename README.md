@@ -7,7 +7,6 @@ This project enables seamless communication between deaf/mute individuals and ot
 <img width="1920" height="1080" alt="Your paragraph text (1)" src="https://github.com/user-attachments/assets/4a3deed2-203f-45b1-9156-9d0ec12065c5" />
 ![Interface](https://github.com/user-attachments/assets/693aa6a6-2108-440f-a9ac-0b8e2b4fb992)
 
-![results](https://github.com/user-attachments/assets/7d86ddd1-684e-453c-b610-8ec735dcd269)
 
 
 Features
