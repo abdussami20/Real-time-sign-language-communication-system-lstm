@@ -1,0 +1,9 @@
+flask
+flask-socketio
+python-socketio
+opencv-python==4.8.1.78
+mediapipe==0.10.11
+tensorflow==2.12.0
+numpy==1.24.3
+pyttsx3
+speech_recognition
